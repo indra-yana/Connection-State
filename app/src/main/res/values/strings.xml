@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connection State</string>
+    <string name="text_message_connected">You are online, the internet connection is available.</string>
+    <string name="text_message_disconnected">The internet connection is unavailable, please check your internet connection.</string>
+    <string name="text_connected">Connected</string>
+    <string name="text_disconnect">Disconnected</string>
+</resources>
